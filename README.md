@@ -1,3 +1,4 @@
-# hls-test
+Very basic HLS Live and VOD example for Stackblitz.
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/hls-test)
+https://hls-test.stackblitz.io/
+
